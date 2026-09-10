@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-- 🎓 3rd Year **Computer Science Engineering (AI & ML)** student at **Chandigarh University** 
+- 🎓 4th Year **Computer Science Engineering (AI & ML)** student at **Chandigarh University** 
 - 💻 Passionate about **Full Stack Development** (MERN, Spring Boot) and integrating **AI/ML** into real-world applications
 - 🤖 Specialized in building **intelligent systems**, from automated resume screening to assistive technology
 - ✍️ **Documentation Lead** at Apex Techno Warriors Society
@@ -37,7 +37,7 @@
 
 | 📌 Project | ⚙️ Tech Used | 🌐 Description |
 |-----------|--------------|----------------|
-| 🧠 **Resume Intelligence Engine** | SpringBoot, React, MongoDB, Apache Tika, NLP | AI-powered platform to rank resumes against job descriptions using advanced NLP scoring |
+| 🧠 **Resume Intelligence Engine** | SpringBoot,Java, React, MongoDB, Apache Tika, NLP | AI-powered platform to rank resumes against job descriptions using advanced NLP scoring |
 | 🌐 **BlogSphere** | MERN Stack, JWT | Content platform featuring Role-Based Access Control (RBAC) for Admins, Editors, and Viewers |
 | 🏥 **HabituraX** | Next.js, Prisma, React 19 | Full-stack application focused on lifestyle disease risk awareness and personalized risk scoring |
 | 👁️ **VisionCane** | YOLOv8, MobileNet | Research and implementation of real-time object detection for assistive navigation devices |
